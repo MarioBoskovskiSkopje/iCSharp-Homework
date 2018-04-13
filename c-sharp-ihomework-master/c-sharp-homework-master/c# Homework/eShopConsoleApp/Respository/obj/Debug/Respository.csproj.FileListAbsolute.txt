@@ -1,0 +1,7 @@
+C:\Users\Mario\Desktop\c-sharp-ihomework-master\c-sharp-homework-master\c# Homework\eShopConsoleApp\Respository\bin\Debug\Respository.dll
+C:\Users\Mario\Desktop\c-sharp-ihomework-master\c-sharp-homework-master\c# Homework\eShopConsoleApp\Respository\bin\Debug\Respository.pdb
+C:\Users\Mario\Desktop\c-sharp-ihomework-master\c-sharp-homework-master\c# Homework\eShopConsoleApp\Respository\bin\Debug\Entities.dll
+C:\Users\Mario\Desktop\c-sharp-ihomework-master\c-sharp-homework-master\c# Homework\eShopConsoleApp\Respository\bin\Debug\Entities.pdb
+C:\Users\Mario\Desktop\c-sharp-ihomework-master\c-sharp-homework-master\c# Homework\eShopConsoleApp\Respository\obj\Debug\Respository.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\c-sharp-ihomework-master\c-sharp-homework-master\c# Homework\eShopConsoleApp\Respository\obj\Debug\Respository.dll
+C:\Users\Mario\Desktop\c-sharp-ihomework-master\c-sharp-homework-master\c# Homework\eShopConsoleApp\Respository\obj\Debug\Respository.pdb
